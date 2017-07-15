@@ -14,6 +14,33 @@
 		3C43F3131F0E53270075E494 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C43F3111F0E53270075E494 /* LaunchScreen.storyboard */; };
 		3C43F31E1F0E53280075E494 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C43F31D1F0E53280075E494 /* testTests.swift */; };
 		3C43F3291F0E53280075E494 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C43F3281F0E53280075E494 /* testUITests.swift */; };
+		3C54FF921F1249F000235578 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C54FF911F1249F000235578 /* TableViewController.swift */; };
+		3C54FF961F13A34300235578 /* kvakane_ljagushki.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FF931F13A34300235578 /* kvakane_ljagushki.mp3 */; };
+		3C54FF971F13A34300235578 /* shum_dozhdja.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FF941F13A34300235578 /* shum_dozhdja.mp3 */; };
+		3C54FF981F13A34300235578 /* ptici_v_lesu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FF951F13A34300235578 /* ptici_v_lesu.mp3 */; };
+		3C54FF9A1F13A63F00235578 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C54FF991F13A63F00235578 /* TableViewCell.swift */; };
+		3C54FF9E1F13BF0000235578 /* one.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FF9D1F13BF0000235578 /* one.jpg */; };
+		3C54FFA11F13BF0E00235578 /* two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FF9F1F13BF0E00235578 /* two.jpg */; };
+		3C54FFA21F13BF0E00235578 /* three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFA01F13BF0E00235578 /* three.jpg */; };
+		3C54FFA41F140C3800235578 /* lesnoy-ruchey.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFA31F140C3800235578 /* lesnoy-ruchey.mp3 */; };
+		3C54FFA61F140C4E00235578 /* zvuki-delfinov.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFA51F140C4E00235578 /* zvuki-delfinov.mp3 */; };
+		3C54FFA81F140C6B00235578 /* koster.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFA71F140C6B00235578 /* koster.mp3 */; };
+		3C54FFAA1F140C8E00235578 /* groza.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFA91F140C8E00235578 /* groza.mp3 */; };
+		3C54FFAC1F140CA700235578 /* belyy-shum-shum-morya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFAB1F140CA700235578 /* belyy-shum-shum-morya.mp3 */; };
+		3C54FFAE1F140ECA00235578 /* rychanie-tigra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFAD1F140ECA00235578 /* rychanie-tigra.mp3 */; };
+		3C54FFB01F140EDD00235578 /* metel-i-sneg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFAF1F140EDD00235578 /* metel-i-sneg.mp3 */; };
+		3C54FFB91F1412D300235578 /* nine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB21F1412D300235578 /* nine.jpg */; };
+		3C54FFBA1F1412D300235578 /* seven.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB31F1412D300235578 /* seven.jpeg */; };
+		3C54FFBB1F1412D300235578 /* four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB41F1412D300235578 /* four.jpg */; };
+		3C54FFBC1F1412D300235578 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB51F1412D300235578 /* eight.jpg */; };
+		3C54FFBD1F1412D300235578 /* ten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB61F1412D300235578 /* ten.jpg */; };
+		3C54FFBE1F1412D300235578 /* five.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB71F1412D300235578 /* five.jpg */; };
+		3C54FFBF1F1412D300235578 /* six.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C54FFB81F1412D300235578 /* six.jpg */; };
+		3C54FFC11F14F81A00235578 /* LikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C54FFC01F14F81A00235578 /* LikeViewController.swift */; };
+		3CF32D8E1F17D49D00BEDD56 /* test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3CF32D8C1F17D49D00BEDD56 /* test.xcdatamodeld */; };
+		3CF32D991F17D59700BEDD56 /* Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF32D971F17D59600BEDD56 /* Entity.swift */; };
+		3CF32D9A1F17D59700BEDD56 /* EntityCoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF32D981F17D59600BEDD56 /* EntityCoreDataProperties.swift */; };
+		3CF32D9C1F17DD6B00BEDD56 /* DatabaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF32D9B1F17DD6B00BEDD56 /* DatabaseController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +74,33 @@
 		3C43F3241F0E53280075E494 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C43F3281F0E53280075E494 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		3C43F32A1F0E53280075E494 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C54FF911F1249F000235578 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		3C54FF931F13A34300235578 /* kvakane_ljagushki.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kvakane_ljagushki.mp3; path = ../../../Downloads/kvakane_ljagushki.mp3; sourceTree = "<group>"; };
+		3C54FF941F13A34300235578 /* shum_dozhdja.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = shum_dozhdja.mp3; path = ../../../Downloads/shum_dozhdja.mp3; sourceTree = "<group>"; };
+		3C54FF951F13A34300235578 /* ptici_v_lesu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ptici_v_lesu.mp3; path = ../../../Downloads/ptici_v_lesu.mp3; sourceTree = "<group>"; };
+		3C54FF991F13A63F00235578 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		3C54FF9D1F13BF0000235578 /* one.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = one.jpg; path = ../../../Downloads/one.jpg; sourceTree = "<group>"; };
+		3C54FF9F1F13BF0E00235578 /* two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = two.jpg; path = ../../../Downloads/two.jpg; sourceTree = "<group>"; };
+		3C54FFA01F13BF0E00235578 /* three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = three.jpg; path = ../../../Downloads/three.jpg; sourceTree = "<group>"; };
+		3C54FFA31F140C3800235578 /* lesnoy-ruchey.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "lesnoy-ruchey.mp3"; path = "../../../Downloads/lesnoy-ruchey.mp3"; sourceTree = "<group>"; };
+		3C54FFA51F140C4E00235578 /* zvuki-delfinov.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "zvuki-delfinov.mp3"; path = "../../../Downloads/zvuki-delfinov.mp3"; sourceTree = "<group>"; };
+		3C54FFA71F140C6B00235578 /* koster.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = koster.mp3; path = ../../../Downloads/koster.mp3; sourceTree = "<group>"; };
+		3C54FFA91F140C8E00235578 /* groza.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = groza.mp3; path = ../../../Downloads/groza.mp3; sourceTree = "<group>"; };
+		3C54FFAB1F140CA700235578 /* belyy-shum-shum-morya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "belyy-shum-shum-morya.mp3"; path = "../../../Downloads/belyy-shum-shum-morya.mp3"; sourceTree = "<group>"; };
+		3C54FFAD1F140ECA00235578 /* rychanie-tigra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "rychanie-tigra.mp3"; path = "../../../Downloads/rychanie-tigra.mp3"; sourceTree = "<group>"; };
+		3C54FFAF1F140EDD00235578 /* metel-i-sneg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "metel-i-sneg.mp3"; path = "../../../Downloads/metel-i-sneg.mp3"; sourceTree = "<group>"; };
+		3C54FFB21F1412D300235578 /* nine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nine.jpg; path = ../../../Downloads/nine.jpg; sourceTree = "<group>"; };
+		3C54FFB31F1412D300235578 /* seven.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = seven.jpeg; path = ../../../Downloads/seven.jpeg; sourceTree = "<group>"; };
+		3C54FFB41F1412D300235578 /* four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = four.jpg; path = ../../../Downloads/four.jpg; sourceTree = "<group>"; };
+		3C54FFB51F1412D300235578 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eight.jpg; path = ../../../Downloads/eight.jpg; sourceTree = "<group>"; };
+		3C54FFB61F1412D300235578 /* ten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ten.jpg; path = ../../../Downloads/ten.jpg; sourceTree = "<group>"; };
+		3C54FFB71F1412D300235578 /* five.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = five.jpg; path = ../../../Downloads/five.jpg; sourceTree = "<group>"; };
+		3C54FFB81F1412D300235578 /* six.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = six.jpg; path = ../../../Downloads/six.jpg; sourceTree = "<group>"; };
+		3C54FFC01F14F81A00235578 /* LikeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LikeViewController.swift; sourceTree = "<group>"; };
+		3CF32D8D1F17D49D00BEDD56 /* test.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = test.xcdatamodel; sourceTree = "<group>"; };
+		3CF32D971F17D59600BEDD56 /* Entity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Entity.swift; sourceTree = "<group>"; };
+		3CF32D981F17D59600BEDD56 /* EntityCoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntityCoreDataProperties.swift; sourceTree = "<group>"; };
+		3CF32D9B1F17DD6B00BEDD56 /* DatabaseController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatabaseController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +132,8 @@
 			isa = PBXGroup;
 			children = (
 				3C43F3071F0E53270075E494 /* test */,
+				3C54FF9C1F13BEE700235578 /* Image */,
+				3C54FFB11F14103800235578 /* Sound */,
 				3C43F31C1F0E53280075E494 /* testTests */,
 				3C43F3271F0E53280075E494 /* testUITests */,
 				3C43F3061F0E53270075E494 /* Products */,
@@ -103,6 +159,13 @@
 				3C43F30F1F0E53270075E494 /* Assets.xcassets */,
 				3C43F3111F0E53270075E494 /* LaunchScreen.storyboard */,
 				3C43F3141F0E53270075E494 /* Info.plist */,
+				3CF32D971F17D59600BEDD56 /* Entity.swift */,
+				3C54FF911F1249F000235578 /* TableViewController.swift */,
+				3C54FF991F13A63F00235578 /* TableViewCell.swift */,
+				3CF32D9B1F17DD6B00BEDD56 /* DatabaseController.swift */,
+				3C54FFC01F14F81A00235578 /* LikeViewController.swift */,
+				3CF32D981F17D59600BEDD56 /* EntityCoreDataProperties.swift */,
+				3CF32D8C1F17D49D00BEDD56 /* test.xcdatamodeld */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -123,6 +186,42 @@
 				3C43F32A1F0E53280075E494 /* Info.plist */,
 			);
 			path = testUITests;
+			sourceTree = "<group>";
+		};
+		3C54FF9C1F13BEE700235578 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				3C54FF9D1F13BF0000235578 /* one.jpg */,
+				3C54FF9F1F13BF0E00235578 /* two.jpg */,
+				3C54FFA01F13BF0E00235578 /* three.jpg */,
+				3C54FFB21F1412D300235578 /* nine.jpg */,
+				3C54FFB31F1412D300235578 /* seven.jpeg */,
+				3C54FFB41F1412D300235578 /* four.jpg */,
+				3C54FFB51F1412D300235578 /* eight.jpg */,
+				3C54FFB61F1412D300235578 /* ten.jpg */,
+				3C54FFB71F1412D300235578 /* five.jpg */,
+				3C54FFB81F1412D300235578 /* six.jpg */,
+			);
+			name = Image;
+			path = test;
+			sourceTree = "<group>";
+		};
+		3C54FFB11F14103800235578 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				3C54FFA51F140C4E00235578 /* zvuki-delfinov.mp3 */,
+				3C54FFA31F140C3800235578 /* lesnoy-ruchey.mp3 */,
+				3C54FFA71F140C6B00235578 /* koster.mp3 */,
+				3C54FFA91F140C8E00235578 /* groza.mp3 */,
+				3C54FFAB1F140CA700235578 /* belyy-shum-shum-morya.mp3 */,
+				3C54FF931F13A34300235578 /* kvakane_ljagushki.mp3 */,
+				3C54FFAF1F140EDD00235578 /* metel-i-sneg.mp3 */,
+				3C54FF941F13A34300235578 /* shum_dozhdja.mp3 */,
+				3C54FFAD1F140ECA00235578 /* rychanie-tigra.mp3 */,
+				3C54FF951F13A34300235578 /* ptici_v_lesu.mp3 */,
+			);
+			name = Sound;
+			path = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,6 +293,11 @@
 					3C43F3041F0E53270075E494 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					3C43F3181F0E53280075E494 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -232,9 +336,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C54FFBE1F1412D300235578 /* five.jpg in Resources */,
 				3C43F3131F0E53270075E494 /* LaunchScreen.storyboard in Resources */,
 				3C43F3101F0E53270075E494 /* Assets.xcassets in Resources */,
+				3C54FFA11F13BF0E00235578 /* two.jpg in Resources */,
+				3C54FFBC1F1412D300235578 /* eight.jpg in Resources */,
+				3C54FFBD1F1412D300235578 /* ten.jpg in Resources */,
+				3C54FFA81F140C6B00235578 /* koster.mp3 in Resources */,
+				3C54FF9E1F13BF0000235578 /* one.jpg in Resources */,
+				3C54FFA61F140C4E00235578 /* zvuki-delfinov.mp3 in Resources */,
+				3C54FF981F13A34300235578 /* ptici_v_lesu.mp3 in Resources */,
+				3C54FFBB1F1412D300235578 /* four.jpg in Resources */,
+				3C54FFBA1F1412D300235578 /* seven.jpeg in Resources */,
+				3C54FFAC1F140CA700235578 /* belyy-shum-shum-morya.mp3 in Resources */,
+				3C54FFA41F140C3800235578 /* lesnoy-ruchey.mp3 in Resources */,
+				3C54FFB91F1412D300235578 /* nine.jpg in Resources */,
+				3C54FFA21F13BF0E00235578 /* three.jpg in Resources */,
+				3C54FFAE1F140ECA00235578 /* rychanie-tigra.mp3 in Resources */,
+				3C54FFAA1F140C8E00235578 /* groza.mp3 in Resources */,
 				3C43F30E1F0E53270075E494 /* Main.storyboard in Resources */,
+				3C54FFBF1F1412D300235578 /* six.jpg in Resources */,
+				3C54FF961F13A34300235578 /* kvakane_ljagushki.mp3 in Resources */,
+				3C54FF971F13A34300235578 /* shum_dozhdja.mp3 in Resources */,
+				3C54FFB01F140EDD00235578 /* metel-i-sneg.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +384,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C43F30B1F0E53270075E494 /* ViewController.swift in Sources */,
+				3C54FF9A1F13A63F00235578 /* TableViewCell.swift in Sources */,
+				3CF32D9A1F17D59700BEDD56 /* EntityCoreDataProperties.swift in Sources */,
+				3C54FF921F1249F000235578 /* TableViewController.swift in Sources */,
 				3C43F3091F0E53270075E494 /* AppDelegate.swift in Sources */,
+				3C54FFC11F14F81A00235578 /* LikeViewController.swift in Sources */,
+				3CF32D991F17D59700BEDD56 /* Entity.swift in Sources */,
+				3CF32D9C1F17DD6B00BEDD56 /* DatabaseController.swift in Sources */,
+				3CF32D8E1F17D49D00BEDD56 /* test.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +638,7 @@
 				3C43F32F1F0E53280075E494 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C43F3301F0E53280075E494 /* Build configuration list for PBXNativeTarget "testTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +647,7 @@
 				3C43F3321F0E53280075E494 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C43F3331F0E53280075E494 /* Build configuration list for PBXNativeTarget "testUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,8 +656,22 @@
 				3C43F3351F0E53280075E494 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3CF32D8C1F17D49D00BEDD56 /* test.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3CF32D8D1F17D49D00BEDD56 /* test.xcdatamodel */,
+			);
+			currentVersion = 3CF32D8D1F17D49D00BEDD56 /* test.xcdatamodel */;
+			path = test.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 3C43F2FD1F0E53270075E494 /* Project object */;
 }
