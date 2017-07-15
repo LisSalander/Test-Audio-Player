@@ -24,8 +24,6 @@ class LikeViewController: UIViewController, UITableViewDelegate, UITableViewData
         likeTable.dataSource = self
         
         self.fetchData()
-       // self.likeTable.reloadData()
-       
     }
 
     

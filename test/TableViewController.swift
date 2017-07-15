@@ -18,14 +18,13 @@ class TableViewController: UIViewController, UITableViewDelegate, UITableViewDat
     let arrayPicture = ["one.jpg", "two.jpg", "three.jpg","four.jpg","five.jpg","six.jpg","seven.jpeg","eight.jpg","nine.jpg","ten.jpg"]
     
     
-    //let tableCall = TableViewCell()
+
    let likeView = LikeViewController()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.delegate = self
         tableView.dataSource = self
-       // self.tableCall.controlLike()
         self.tableView.reloadData()
         
         let content = UNMutableNotificationContent()

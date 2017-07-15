@@ -58,7 +58,6 @@ class TableViewCell: UITableViewCell {
             likeView.fetchData()
             var sound = Int16()
             for i in 0..<likeView.likeSound.count {
-                //if likeView.likeSound.count != 1 {
                 sound = likeView.likeSound[i].id
                 print(index)
                 print(sound)
